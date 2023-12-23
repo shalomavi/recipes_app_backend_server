@@ -41,33 +41,5 @@ tzlocal==5.2
 urllib3==2.1.0
 uvicorn==0.24.0.post1
 Werkzeug==3.0.1
-PS C:\Users\Home\PycharmProjects\masterschool\masterscool_projects\Recipe Keeper> py --version
-Python 3.12.0
-PS C:\Users\Home\PycharmProjects\masterschool\masterscool_projects\Recipe Keeper> py -m pip --version
-pip 23.3.1 from C:\Users\Home\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip (python 3.12)
-PS C:\Users\Home\PycharmProjects\masterschool\masterscool_projects\Recipe Keeper> py -m pip freeze   
-annotated-types==0.6.0
-anyio==3.7.1
-APScheduler==3.10.4
-blinker==1.7.0
-certifi==2023.11.17
-charset-normalizer==3.3.2
-click==8.1.7
-colorama==0.4.6
-contourpy==1.2.0
-cycler==0.12.1
-fastapi==0.105.0
-Flask==3.0.0
-Flask-SQLAlchemy==3.1.1
-fonttools==4.45.1
-greenlet==3.0.3
-h11==0.14.0
-idna==3.6
-itsdangerous==2.1.2
-Jinja2==3.1.2
-kiwisolver==1.4.5
-MarkupSafe==2.1.3
-matplotlib==3.8.2
-matplotlip==0.2
-networkx==3.2.1
-numpy=
+
+
